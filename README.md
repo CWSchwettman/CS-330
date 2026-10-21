@@ -1,2 +1,13 @@
-# CS-330
-Computational Graphics and Design Projects 
+# CS-330 Computational Graphics and Visualization
+
+## Course Overview
+In CS-330, I learned how to create and develop 3D scenes using C++ and OpenGL. Throughout the course, I worked with different geometric shapes, transformations, textures, lighting, and camera controls. For my final project, I created a 3D scene featuring a firefighter helmet resting on a forest floor. I used multiple shapes to construct the helmet and applied different textures and lighting to make the scene look more realistic. This repository contains my completed 3D scene and Design Decisions document.
+
+## How do I approach designing software?
+When designing software, I start by reviewing the requirements and breaking the project into smaller tasks. For my 3D scene, I began by selecting a reference image and identifying the shapes I would need to create the firefighter helmet. I used a sphere for the crown and other shapes for the brim and front shield. One of the biggest things I learned was how to combine simple shapes to create a more complex object. I also learned how important planning is when working with textures, lighting, and object placement. In future projects, I can use this same approach of planning ahead, breaking down requirements, and making adjustments as I work.
+
+## How do I approach developing programs?
+When developing programs, I like to work on one part at a time and test it before moving forward. Throughout this project, I used an iterative approach by building the basic shapes first and then gradually adding textures, lighting, and camera controls. I made several changes to the helmet colors, materials, and lighting to improve how the scene looked. There were times when something did not work as expected, so I had to review my code, make corrections, and rebuild the program. Working through these challenges helped me become more comfortable with debugging and understanding how different parts of a program work together. By the end of the course, I had become more confident in making changes and testing my code.
+
+## How can computer science help me in reaching my goals?
+Computer science is helping me develop the knowledge and skills I need for a career in software engineering. This course introduced me to computational graphics and gave me more experience working with C++, OpenGL, and Visual Studio. I learned more about how mathematics, programming, and visual design work together to create 3D environments. These skills will be useful as I continue my education because they have helped improve my problem-solving abilities and understanding of software development. Professionally, I believe the experience I gained with debugging, testing, and developing a project through multiple stages will help prepare me for working on larger software applications. Even if I do not work directly with computer graphics, the programming and development skills I learned will be valuable in my future career.
